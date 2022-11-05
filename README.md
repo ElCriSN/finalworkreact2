@@ -1,4 +1,4 @@
-Por favor, descargue desde la Terminal los node_modules(npm install), los paquetes de React-Router-DOM, de React-Bootstrap y Bootstrap, saludos Profe ! 👍!!
+Enlace a la Aplicación :-D ! https://unrivaled-moonbeam-41d854.netlify.app
 
 # Getting Started with Create React App
 
